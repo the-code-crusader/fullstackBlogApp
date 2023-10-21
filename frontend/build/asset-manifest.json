@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1beb3a94.css",
+    "main.js": "/static/js/main.65a39aaa.js",
+    "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.a9029a54cdb20d107630.ttf",
+    "static/media/bl.png": "/static/media/bl.ebe2e7468039508c02af.png",
+    "static/media/blankpfp.jpg": "/static/media/blankpfp.7fe14f0accd9979e3303.jpg",
+    "static/media/del.svg": "/static/media/del.11d15c96dd75969f8335ec052d0ecfb4.svg",
+    "static/media/edit.svg": "/static/media/edit.8bdd234ac6d113541309bb28811dc414.svg",
+    "index.html": "/index.html",
+    "main.1beb3a94.css.map": "/static/css/main.1beb3a94.css.map",
+    "main.65a39aaa.js.map": "/static/js/main.65a39aaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1beb3a94.css",
+    "static/js/main.65a39aaa.js"
+  ]
+}
